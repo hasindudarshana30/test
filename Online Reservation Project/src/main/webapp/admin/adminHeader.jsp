@@ -22,8 +22,8 @@
 	</a> <a href="messagesReceived.jsp">Messages Received <i
 		class='fas fa-comment-alt'></i></a> <a href="ordersReceived.jsp">Booking
 		Received <i class="fas fa-archive"></i>
-	</a> <a href="">Cancel Booking <i class='fas fa-window-close'></i></a> <a
-		href="">Confirm Booking <i class='fas fa-dolly'></i></a> <a
+	</a> <a href="cancelOrders.jsp">Cancel Booking <i class='fas fa-window-close'></i></a> <a
+		href="deliveredOrders.jsp">Confirm Booking <i class='fas fa-dolly'></i></a> <a
 		href="../logout.jsp">Logout <i class='fas fa-share-square'></i></a>
 </div>
 <br>
